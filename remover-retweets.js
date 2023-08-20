@@ -1,3 +1,8 @@
+//Instructions(En)
+//Tweeter retweet remover
+//Run the script on your web browser console by pressing Ctrl+Shift+I, make sure you run it on http://twitter.com/{username}/
+
+//Instruções(Pt-Br)
 //Removedor de retweets
 //Rodar no console do navegador, no endereço http://twitter.com/{username}
 

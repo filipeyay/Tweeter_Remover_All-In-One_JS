@@ -1,5 +1,10 @@
+//Instructions(En)
+//Tweeter like remover
+//Run the script on your web browser console by pressing Ctrl+Shift+I, make sure you run it on http://twitter.com/{username}likes}
+
+//Instruções(Pt-Br)
 //Removedor de likes do tweeter
-//Rodar no console do navegador, no endereço http://twitter.com/{username}/likes
+//Rode o script no console do navegador pressionando Ctrl+Shift+I, no endereço http://twitter.com/{username}/likes
 
 function nextUnlike() {
   return document.querySelector('[data-testid="unlike"]');
